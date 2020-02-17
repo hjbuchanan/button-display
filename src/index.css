@@ -3,3 +3,18 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+
+.mt3 {
+	margin-top: 3rem;
+}
+
+button {
+	background-color: #24a0ed;
+	color: white;
+	font-size: 1rem;
+	border-color: white;
+	padding: 1rem 2rem;
+	border-radius: 3px;	
+	cursor: pointer;
+}
